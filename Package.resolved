@@ -12,7 +12,7 @@
       },
       {
         "package": "CommandLine",
-        "repositoryURL": "https://github.com/silt-lang/CommandLine",
+        "repositoryURL": "https://github.com/jatoben/CommandLine",
         "state": {
           "branch": null,
           "revision": "5bdfea60048a932091daa07b797938dce35e4cf0",
