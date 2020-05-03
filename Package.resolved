@@ -6,17 +6,8 @@
         "repositoryURL": "https://github.com/tadija/AEXML.git",
         "state": {
           "branch": null,
-          "revision": "09f27784d9e328670ef0a181c832cce497117131",
-          "version": "4.2.2"
-        }
-      },
-      {
-        "package": "CommandLine",
-        "repositoryURL": "https://github.com/jatoben/CommandLine",
-        "state": {
-          "branch": null,
-          "revision": "5bdfea60048a932091daa07b797938dce35e4cf0",
-          "version": "4.0.0"
+          "revision": "8623e73b193386909566a9ca20203e33a09af142",
+          "version": "4.5.0"
         }
       }
     ]
