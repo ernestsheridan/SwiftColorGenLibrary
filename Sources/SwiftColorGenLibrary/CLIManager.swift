@@ -6,12 +6,12 @@
 //
 
 import Foundation
-import CommandLine
+import CommandLineKit
 
 public struct CLIManager {
     // Returns the arguments in a valid format
     public static func getArgs() -> (baseFolder: String, assetsFolder: String, outputFile: String) {
-        let cli = CLI()
+        let cli = CommandLineKit()
         
         // Defining the CLI options
         let assetsFolderPath = StringOption(shortFlag: "a",
